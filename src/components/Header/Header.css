@@ -1,0 +1,14 @@
+.header{
+    
+}
+.header h1{
+    font-size: 62px;
+    color: rgba(243, 125, 14, 0.741);
+}
+.header span{
+    color: rgb(232, 51, 187);
+}
+.header h3{
+    color: rgb(19, 213, 129);
+    font-size: 34px;
+}
