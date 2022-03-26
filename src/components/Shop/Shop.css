@@ -17,6 +17,28 @@
     position: sticky;
     top: 0;
 }
+.cart .btn2{
+    color: rgb(164, 19, 221);
+    font-size: 22px;
+    padding: 5px 10px;
+    font-weight: 500;
+    margin-top: 8px;
+    margin-left: 30px;
+    background-color: rgb(201, 201, 201);
+    border: 1px solid rgba(121, 102, 102, 0.867);
+    border-radius: 5px;
+}
+.cart .btn1{
+    color: green;
+    font-size: 22px;
+    padding: 5px 10px;
+    font-weight: 500;
+    margin-top: 8px;
+    margin-left: 30px;
+    background-color: rgb(201, 201, 201);
+    border: 1px solid rgba(121, 102, 102, 0.867);
+    border-radius: 5px;
+}
 .cart-container h3{
     font-size: 26px;
     color: rgb(89, 63, 63);

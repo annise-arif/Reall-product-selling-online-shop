@@ -16,7 +16,19 @@ const Shop = () => {
   const handleCart = (product) => {
     setCart((items) => [...items, product]);
   };
+  
+  const deleteButton = (cart) => {
+    setCart(cart = []);
+    
+  }
+  
+  const ChooseRandom = (cart) => {
+         genareateRandomName(cart)
+  }
 
+  const genareateRandomName = (cart) => {
+    console.log(cart)
+  }
   return (
     <div className="shop-container">
       <div className="products-container">
@@ -28,12 +40,10 @@ const Shop = () => {
       <div className="cart-container">
         <div className="cart">
           <h3>Selected Items</h3>
-          {cart.map((item) => (
-            <Cart cart={item.name} />
-          ))}
+          {cart.map((item) => (<Cart key={item.id} cart={item.name} />))}
 
-            <button>Choose 1 For Me</button><br />
-            <button>Choose Again</button>
+            <button className="btn1" onClick={ChooseRandom}>Choose 1 For Me</button><br />
+            <button className="btn2" onClick={deleteButton}>Choose Again</button>
         </div>
       </div>
     </div>

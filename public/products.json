@@ -8,7 +8,7 @@
       "quantity": 0
     },
     {
-      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "id": "103403cbc7ed-a61b-4883-9d42-82d7d8642b86",
       "name": "FITNESS Fruits",
       "price": 86,
       "img": "https://cartzilla.createx.studio/img/grocery/single/01.jpg",
@@ -17,9 +17,9 @@
     },
     {
       "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
-      "name": "CHAKKI FRESH ATTA",
+      "name": "BERTOLLI ORGANIC",
       "price": 5,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVdSSqvLB3S2pJa_056Wtg2RnAQUt-F2ld_vWBvJHsAhnjDvdi9gGAN97UqgQLLAGbvm0&usqp=CAU",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/template-pastaalfredo-1538169576.png?crop=1xw:1xh;center,top&resize=480:*",
       "shipping": 1,
       "quantity": 0
     },
