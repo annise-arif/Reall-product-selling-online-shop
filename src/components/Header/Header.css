@@ -3,12 +3,12 @@
 }
 .header h1{
     font-size: 62px;
-    color: rgba(243, 125, 14, 0.741);
+    color: rgba(75, 48, 23, 0.741);
 }
 .header span{
-    color: rgb(232, 51, 187);
+    color: rgb(68, 39, 61);
 }
 .header h3{
-    color: rgb(19, 213, 129);
+    color: rgb(77, 66, 20);
     font-size: 34px;
 }

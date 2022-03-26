@@ -1,7 +1,7 @@
 .product{
     width: 300px;
     height: 470px;
-    border: 1px solid rgb(174, 174, 174);
+    border: 1px solid rgb(181, 178, 178);
     border-radius: 10px;
     position: relative;
     background-color: whitesmoke;
@@ -31,9 +31,10 @@
     margin-bottom: 7px;
 }
 .btn-cart{
+    color: rgb(46, 115, 220);
+    font-weight: bold;
     width: 100%;
-    background-color: rgb(243, 101, 49);
-    border: none;
+    background-color: whitesmoke;
     border-radius: 9px;
     position: absolute;
     bottom: 0;
@@ -41,3 +42,15 @@
     align-items: center;
     justify-content: center
 }
+button{
+    border: none;
+}
+.btn-cart .btn-text{
+    margin-right: 5px;
+    
+}
+.btn-cart:hover{
+    background-color: rgb(237, 147, 114)
+}
+
+
