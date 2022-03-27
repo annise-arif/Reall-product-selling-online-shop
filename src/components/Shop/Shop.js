@@ -23,10 +23,12 @@ const Shop = () => {
   }
   
   const ChooseRandom = (cart) => {
-         genareateRandomName(cart)
+      genareateRandomName(cart)
   }
 
   const genareateRandomName = (cart) => {
+    cart = [Math.random(cart[cart])]
+    setCart(cart = [cart])
     console.log(cart)
   }
   return (

@@ -1,0 +1,15 @@
+.ans2{
+    align-items: center;
+    background-color: rgb(230, 217, 217);
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.footer{
+    color: rgb(132, 243, 201);
+    text-align: center;
+    background-color: rgb(112, 112, 112);
+    padding: 40px;
+    margin-top: 8px;
+    border-radius: 10px 10px 0px 0px;
+}
