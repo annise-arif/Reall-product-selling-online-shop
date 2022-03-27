@@ -18,9 +18,9 @@ const Shop = () => {
     setCart((items) => [...items, product]);
   };
   
-  const deleteButton = (cart) => {
+  const deleteButton = (cart, random) => {
     setCart(cart = []);
-    
+    setRandom(random = [])
     
   }
   
