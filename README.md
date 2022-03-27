@@ -3,4 +3,4 @@
 
 ## Live Web Site Link
 
-Link: https://zesty-kulfi-cd8e9c.netlify.app/t
+Link: https://zesty-kulfi-cd8e9c.netlify.app/
