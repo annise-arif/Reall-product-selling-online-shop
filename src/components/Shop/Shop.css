@@ -17,6 +17,16 @@
     position: sticky;
     top: 0;
 }
+.cart-container .cart .random-item{
+    font-weight: 600;
+    font-size: 26px;
+    width: 260px;
+    border-radius: 4px;
+    margin-left: 20px;
+    color: rgb(242, 119, 24);
+    background-color: rgb(201, 201, 201);
+    padding: 10px 0px 0px 15px;
+}
 .cart .btn2{
     color: rgb(164, 19, 221);
     font-size: 22px;
